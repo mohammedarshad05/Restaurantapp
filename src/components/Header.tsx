@@ -19,7 +19,7 @@ const Header: React.FC = () => {
             style={{ cursor: "pointer" }}
           >
             <img src="/logo.png" alt="Logo" className="logo" />
-            Restaurantly
+            Empire
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

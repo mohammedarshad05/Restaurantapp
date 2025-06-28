@@ -8,7 +8,7 @@ const About: React.FC = () => {
       <div className="container text-center text-white">
         <h2 className="about-title">About Us</h2>
         <p className="about-description">
-          At Restaurantly, we bring you the finest dining experience with a
+          At Empire, we bring you the finest dining experience with a
           perfect blend of tradition and taste. Every dish is crafted with
           passion and served with love.
         </p>

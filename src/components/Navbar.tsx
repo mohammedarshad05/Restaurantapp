@@ -10,7 +10,7 @@ const Navbar: React.FC = () => {
         <h1 className="logo">
           <a href="#hero">
             <FaUtensils className="me-2" />
-            Restaurantly
+            Empire
           </a>
         </h1>
 

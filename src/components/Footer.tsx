@@ -5,7 +5,7 @@ const Footer: React.FC = () => {
   return (
     <footer id="footer">
       <div className="container">
-        <h3>Restaurantly</h3>
+        <h3>Empire</h3>
         <p>
           Delivering delicious food with a taste of tradition and modern style.
         </p>
@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
         <div className="copyright">
           &copy; 2025{" "}
           <strong>
-            <span>Restaurantly</span>
+            <span>Empire</span>
           </strong>
           . All Rights Reserved
         </div>
