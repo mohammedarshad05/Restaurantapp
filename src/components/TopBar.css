@@ -1,0 +1,24 @@
+#topbar {
+    background: #000;
+    font-size: 14px;
+    padding: 5px 0;
+    color: #fff;
+    z-index: 9999;
+  }
+  
+  #topbar .topbar-left i,
+  #topbar .topbar-right i {
+    color: #ffc107;
+    margin-right: 5px;
+  }
+  
+  #topbar .topbar-left a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  #topbar .topbar-left a:hover {
+    color: #ffc107;
+  }
+  

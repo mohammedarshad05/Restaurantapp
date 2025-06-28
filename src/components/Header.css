@@ -1,0 +1,38 @@
+#header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 15px 0;
+    transition: all 0.5s;
+    z-index: 997;
+  }
+  
+  #header .logo {
+    width: 40px;
+    margin-right: 10px;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    margin-right: 20px;
+    font-weight: 500;
+    transition: 0.3s;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover,
+  .navbar-dark .navbar-nav .nav-link.active {
+    color: #cda45e;
+  }
+  
+  .book-a-table-btn {
+    background: #cda45e;
+    color: #fff !important;
+    padding: 8px 20px;
+    border-radius: 50px;
+    margin-left: 15px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  .book-a-table-btn:hover {
+    background: #d3af71;
+  }
+  

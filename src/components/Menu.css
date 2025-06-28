@@ -1,0 +1,33 @@
+.menu {
+    padding: 60px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .menu-card {
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
+    transition: 0.3s;
+  }
+  
+  .menu-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .menu-img {
+    height: 220px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .card-price {
+    color: #e96b56;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  

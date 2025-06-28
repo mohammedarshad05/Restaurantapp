@@ -1,0 +1,36 @@
+.why-us {
+    padding: 60px 0;
+    background: #f7f7f7;
+  }
+  
+  .why-us .box {
+    padding: 30px;
+    background: #fff;
+    text-align: center;
+    border-radius: 8px;
+    transition: 0.3s;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.05);
+  }
+  
+  .why-us .box:hover {
+    transform: translateY(-10px);
+  }
+  
+  .why-us .box span {
+    font-size: 28px;
+    display: block;
+    font-weight: 700;
+    color: var(--primary);
+  }
+  
+  .why-us .box h4 {
+    font-weight: 700;
+    margin: 10px 0;
+    font-size: 20px;
+  }
+  
+  .why-us .box p {
+    font-size: 15px;
+    color: #666;
+  }
+  

@@ -1,0 +1,25 @@
+.specials {
+    background-color: #f8f9fa;
+  }
+  
+  .specials .section-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .specials .section-title p {
+    color: #6c757d;
+  }
+  
+  .specials-img {
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .price {
+    font-size: 18px;
+    color: #ce1212;
+    margin-top: 10px;
+  }
+  
