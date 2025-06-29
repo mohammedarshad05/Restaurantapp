@@ -1,4 +1,4 @@
-# 🍽️ Restaurantly – Modern Restaurant Website
+# 🍽️ E m p i r e – Modern Restaurant Website
 
 A fully responsive and visually engaging restaurant website built using **React.js**, **TypeScript**, **Bootstrap**, and a **mock REST API**.
 
@@ -6,7 +6,7 @@ A fully responsive and visually engaging restaurant website built using **React.
 
 ## 🔗 Live Demo
 
-> ([View My Website](https://restaurantapp-ochre.vercel.app/))
+> [Visit Live Site](https://restaurantapp-ochre.vercel.app/)
 
 ---
 
