@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
               </div>
               <div>
                 <i className="bi bi-phone fs-3 text-primary me-2"></i>
-                <span>+91 87925 36157</span>
+                <span>+91 80737 77432</span>
               </div>
             </div>
           </div>
