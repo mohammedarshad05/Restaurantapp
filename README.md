@@ -6,7 +6,7 @@ A fully responsive and visually engaging restaurant website built using **React.
 
 ## 🔗 Live Demo
 
-> ([Add your Vercel link here](https://restaurantapp-ochre.vercel.app/))
+> ([View My Website](https://restaurantapp-ochre.vercel.app/))
 
 ---
 
